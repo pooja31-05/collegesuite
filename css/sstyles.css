@@ -1,0 +1,34 @@
+.article__content {
+    font-size: 1rem;
+    color: #515260;
+    line-height: 1.6;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+:root {
+    --color-mystic: #e3e6ee;
+}
+html {
+    font-family: CircularStd-Book,Arial,sans-serif;
+    font-size: 1.125em;
+    line-height: 1.55555556;
+    min-height: 100%;
+    overflow-y: scroll;
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
